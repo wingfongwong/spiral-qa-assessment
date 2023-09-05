@@ -1,0 +1,21 @@
+{
+  "name": "spiral-qa-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingfongwong/spiral-qa-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wingfongwong/spiral-qa-assessment/issues"
+  },
+  "homepage": "https://github.com/wingfongwong/spiral-qa-assessment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
